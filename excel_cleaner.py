@@ -4,7 +4,7 @@ import numpy as np
 import io
 import base64
 
-st.set_page_config(page_title="Excel Data Cleaner for Retool", layout="wide")
+st.set_page_config(page_title="Excel Data Cleaner for IPP", layout="wide")
 
 st.title("Excel Data Cleaner for Retool")
 st.write("Upload your Excel file to clean and format it according to Retool requirements.")
