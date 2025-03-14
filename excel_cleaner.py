@@ -6,7 +6,7 @@ import base64
 
 st.set_page_config(page_title="Excel Data Cleaner for IPP", layout="wide")
 
-st.title("Excel Data Cleaner for Retool")
+st.title("Excel Data Cleaner for IPP")
 st.write("Upload your Excel file to clean and format it according to Retool requirements.")
 
 # File uploader
